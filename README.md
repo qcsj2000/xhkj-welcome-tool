@@ -82,7 +82,8 @@ pip install -r requirements.txt
 2. 都没匹配到 → 用代码顶部写死的 `DEFAULT_CRED_FILE` / `DEFAULT_INFO_FILE` / `DEFAULT_FAIL_FILE`（默认是 `None`，需要时自己填）
 3. 还是没有 → 报错终止
 
-## 安全提醒
+## 提醒
 
 - 默认密码规则是"身份证后6位"，且不可更改
+- 感觉也没吊用，还不如登教师账号批量导出
 - 本项目仅供学习、研究及经授权的数据处理使用
